@@ -1,4 +1,4 @@
-# Assignment app with Ract.js, [Laravel](https://laravel.com/) and TypeScript
+# News Aggregator Website built with Ract.js, [Laravel](https://laravel.com/) and TypeScript
 
 I have developed a news aggregator website that displays list of articles (fetch from [online](https://newsapi.org/) rest api). 
 
